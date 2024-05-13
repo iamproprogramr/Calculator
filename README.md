@@ -1,4 +1,4 @@
-Muhamad Yousaf's Basic Calculator
+
 Welcome to Muhamad Yousaf's Basic Calculator project! This simple calculator program was created by a young programmer named Muhamad Yousaf. Despite its simplicity, it offers a user-friendly graphical interface (GUI) and a range of basic operations, making it a handy tool for everyday calculations.
 
 Features
