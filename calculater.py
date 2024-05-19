@@ -4,7 +4,7 @@ import math
 screen= Tk()
 screen.title("CALCULATER BY MUHAMMAD YOUSAF")
 screen.geometry("320x447")
-
+screen.iconbitmap("icon.ico")
 
 
 def click(b):
